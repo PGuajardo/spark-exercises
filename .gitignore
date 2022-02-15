@@ -1,0 +1,9 @@
+*.csv
+case_csv/
+dept_csv/
+source_csv/
+
+source_json/
+case_json/
+dept_json/
+__pycache__
